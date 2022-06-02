@@ -69,7 +69,7 @@ linters-settings:
 linters:
   disable-all: true
   enable:
- #   - bodyclose
+    - bodyclose
  #   - deadcode
  #  - depguard
   #  - dogsled
@@ -99,7 +99,7 @@ linters:
     #- typecheck
     #- unconvert
     #- unparam
-    #- unused
+    - unused
     #- varcheck
 
 
