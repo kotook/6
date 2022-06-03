@@ -23,7 +23,7 @@ func main() {
 
 	copyList := sorting.DuplicateList(InfoOfCopy)
 
-	fmt.Println("Если Вы хотите удалить дубликаты файлов, введите Y, для отмены введите N")
+	fmt.Println("Если Вы хотиооте удалить дубликаты файлов, введите Y, для отмены введите N")
 	var y string
 	_, _ = fmt.Scan(&y)
 
